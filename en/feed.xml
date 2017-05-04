@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:5D926975-EF74-4828-BBE8-DDE08BBEE9EA</id>
  <title>Page list Atom feed</title>
- <updated>2017-05-04T00:28:04-07:00</updated>
+ <updated>2017-05-04T00:44:36-07:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Home</title>
   <in-navbar xmlns="urn:iweb:">9F3230FF-DC31-4D19-966B-5138B15A5058</in-navbar>
   <link rel="alternate" href="Home.html"/>
-  <updated>2017-05-04T00:28:04.001-07:00</updated>
+  <updated>2017-05-04T00:44:36.001-07:00</updated>
   <content>Home</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">Photos</title>
   <in-navbar xmlns="urn:iweb:">A4C8BEB4-175D-417B-999B-CE558F7BD454</in-navbar>
   <link rel="alternate" href="Photos.html"/>
-  <updated>2017-05-04T00:28:04.002-07:00</updated>
+  <updated>2017-05-04T00:44:36.002-07:00</updated>
   <content>Photos</content>
  </entry>
  <entry>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">Resume</title>
   <in-navbar xmlns="urn:iweb:">CEBC5709-6247-452A-9F18-29AF91E3D172</in-navbar>
   <link rel="alternate" href="Resume.html"/>
-  <updated>2017-05-04T00:28:04.003-07:00</updated>
+  <updated>2017-05-04T00:44:36.003-07:00</updated>
   <content>Resume</content>
  </entry>
  <entry>
@@ -41,7 +41,7 @@
   <title xmlns="urn:iweb:">Demo</title>
   <in-navbar xmlns="urn:iweb:">7417E805-1CFF-4F57-9EB4-2372C53B5CE7</in-navbar>
   <link rel="alternate" href="Demo.html"/>
-  <updated>2017-05-04T00:28:04.004-07:00</updated>
+  <updated>2017-05-04T00:44:36.004-07:00</updated>
   <content>Demo</content>
  </entry>
  <entry>
@@ -50,7 +50,7 @@
   <title xmlns="urn:iweb:">Action</title>
   <in-navbar xmlns="urn:iweb:">9A4CE911-88EC-42E6-9C54-F9D45D2C52CB</in-navbar>
   <link rel="alternate" href="Action.html"/>
-  <updated>2017-05-04T00:28:04.005-07:00</updated>
+  <updated>2017-05-04T00:44:36.005-07:00</updated>
   <content>Action</content>
  </entry>
  <entry>
@@ -59,7 +59,7 @@
   <title xmlns="urn:iweb:">Links</title>
   <in-navbar xmlns="urn:iweb:">A2590F80-FA8B-4A7E-8961-8C5C47EBC5C8</in-navbar>
   <link rel="alternate" href="Links.html"/>
-  <updated>2017-05-04T00:28:04.006-07:00</updated>
+  <updated>2017-05-04T00:44:36.006-07:00</updated>
   <content>Links</content>
  </entry>
  <entry>
@@ -68,7 +68,7 @@
   <title xmlns="urn:iweb:">Contact</title>
   <in-navbar xmlns="urn:iweb:">852D8B1C-159E-4B78-AB8B-C7B4774A795E</in-navbar>
   <link rel="alternate" href="Contact.html"/>
-  <updated>2017-05-04T00:28:04.007-07:00</updated>
+  <updated>2017-05-04T00:44:36.007-07:00</updated>
   <content>Contact</content>
  </entry>
 </feed>
