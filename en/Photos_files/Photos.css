@@ -1,22 +1,22 @@
 .style {
     padding: 0px;
 }
+.style_External_0_0 {
+    position: relative;
+}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
-}
-.style_External_184_32 {
-    position: relative;
 }
 .graphic_image_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
-.image_cluster_layout_style_default_External_184_32 {
-    position: relative;
-}
 .image_cluster_layout_style_default {
     padding: 0px;
+}
+.image_cluster_layout_style_default_External_0_0 {
+    position: relative;
 }
 a {
     color: rgb(88, 77, 77);
