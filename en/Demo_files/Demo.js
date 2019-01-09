@@ -1,12 +1,12 @@
-// Created by iWeb 3.0.4 local-build-20181202
+// Created by iWeb 3.0.4 local-build-20190108
 
 function writeMovie1()
 {detectBrowser();if(windowsInternetExplorer)
-{document.write('<object id="id2" classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="500" height="297" style="height: 297px; left: 100px; position: absolute; top: 91px; width: 500px; z-index: 1; "><param name="src" value="Media/2018%20Acting%20Demo%20Web%20Temp.m4v" /><param name="controller" value="true" /><param name="autoplay" value="false" /><param name="scale" value="tofit" /><param name="volume" value="100" /><param name="loop" value="false" /></object>');}
+{document.write('<object id="id2" classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="500" height="297" style="height: 297px; left: 100px; position: absolute; top: 91px; width: 500px; z-index: 1; "><param name="src" value="Media/2018%20Acting%20Demo%20Web.m4v" /><param name="controller" value="true" /><param name="autoplay" value="false" /><param name="scale" value="tofit" /><param name="volume" value="100" /><param name="loop" value="false" /></object>');}
 else if(isiPhone)
-{document.write('<object id="id2" type="video/quicktime" width="500" height="297" style="height: 297px; left: 100px; position: absolute; top: 91px; width: 500px; z-index: 1; "><param name="src" value="Demo_files/2018%20Acting%20Demo%20Web%20Temp.jpg"/><param name="target" value="myself"/><param name="href" value="../Media/2018%20Acting%20Demo%20Web%20Temp.m4v"/><param name="controller" value="true"/><param name="scale" value="tofit"/></object>');}
+{document.write('<object id="id2" type="video/quicktime" width="500" height="297" style="height: 297px; left: 100px; position: absolute; top: 91px; width: 500px; z-index: 1; "><param name="src" value="Demo_files/2018%20Acting%20Demo%20Web.jpg"/><param name="target" value="myself"/><param name="href" value="../Media/2018%20Acting%20Demo%20Web.m4v"/><param name="controller" value="true"/><param name="scale" value="tofit"/></object>');}
 else
-{document.write('<object id="id2" type="video/quicktime" width="500" height="297" data="Media/2018%20Acting%20Demo%20Web%20Temp.m4v" style="height: 297px; left: 100px; position: absolute; top: 91px; width: 500px; z-index: 1; "><param name="src" value="Media/2018%20Acting%20Demo%20Web%20Temp.m4v"/><param name="controller" value="true"/><param name="autoplay" value="false"/><param name="scale" value="tofit"/><param name="volume" value="100"/><param name="loop" value="false"/></object>');}}
+{document.write('<object id="id2" type="video/quicktime" width="500" height="297" data="Media/2018%20Acting%20Demo%20Web.m4v" style="height: 297px; left: 100px; position: absolute; top: 91px; width: 500px; z-index: 1; "><param name="src" value="Media/2018%20Acting%20Demo%20Web.m4v"/><param name="controller" value="true"/><param name="autoplay" value="false"/><param name="scale" value="tofit"/><param name="volume" value="100"/><param name="loop" value="false"/></object>');}}
 setTransparentGifURL('Media/transparent.gif');function hostedOnDM()
 {return false;}
 function onPageLoad()
